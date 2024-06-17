@@ -22,6 +22,7 @@
     "@tailwindcss/aspect-ratio": "^0.4.2",
     "@tailwindcss/typography": "^0.5.13",
     "@tremor/react": "^3.17.2",
+    "axios": "^1.7.2",
     "formik": "^2.4.6",
     "luxon": "^3.4.4",
     "next": "14.2.3",
