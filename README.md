@@ -18,7 +18,7 @@ Una vez iniciado el servidor esta deberá de verse en [https://localhost:3000](h
 
 ## Requisitos especiales
 
-Debes solicitar al programador todos los archivos .env para este proyecto
+Debes solicitar al programador todos los archivos .env para este proyecto, así como los certificados autofirmados.
 
 
 Happy Coding!
